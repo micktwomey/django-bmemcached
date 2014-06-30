@@ -1,1 +1,1 @@
-from memcached import BMemcached
+from django_bmemcached.memcached import BMemcached
